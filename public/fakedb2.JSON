@@ -1,0 +1,26 @@
+[
+    {
+        "id": 101,
+        "name": "Android Development",
+        "image": "https://image.freepik.com/free-photo/growth-development-grow-improvement-success_53876-120791.jpg",
+        "Details": "we proviet best education system for you amet mauris lobortis mauris inceptos eget. Urna imperdiet"
+    },
+    {
+        "id": 102,
+        "name": "Android App Marketing",
+        "image": "https://image.freepik.com/free-photo/top-view-social-media-drawings_1134-84.jpg",
+        "Details": "we proviet best education system for you amet mauris lobortis mauris inceptos eget. Urna imperdiet"
+    },
+    {
+        "id": 103,
+        "name": "Digital Strategy",
+        "image": "https://image.freepik.com/free-photo/real-estate-accommodation-property-investment-graphic-word_53876-124681.jpg",
+        "Details": "we proviet best education system for you amet mauris lobortis mauris inceptos eget. Urna imperdiet"
+    },
+    {
+        "id": 104,
+        "name": "Graphics Design",
+        "image": "https://image.freepik.com/free-photo/messaging-workplace_1098-15641.jpg",
+        "Details": "we proviet best education system for you amet mauris lobortis mauris inceptos eget. Urna imperdiet"
+    }
+]

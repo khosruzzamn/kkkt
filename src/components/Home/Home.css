@@ -1,0 +1,19 @@
+.hero{
+    background-image: url('../../images/slider-img.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 80vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+    
+}
+.hero h2{
+    font-size: 60px;
+}
+.hero p{
+    font-size: 24px;
+color: #ddd;
+}
